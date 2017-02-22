@@ -11,3 +11,5 @@ main configuration: etc/apache2/sites_enabled/000.default
 chmod +x /var/www/html/youBot.html
 
 chmod +x /usr/lib/cgi-bin/object_displacer.sh
+
+main.cpp is main programm of project object displacer in youbot
